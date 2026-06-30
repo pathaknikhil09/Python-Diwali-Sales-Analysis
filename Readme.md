@@ -1,11 +1,9 @@
 <h1> Python_Diwali_Sales_Analysis</h1>
 <br>
-
 <h3> Overview :</h3>
 <br>
 <p> This project analyzes Diwali sales data using Python to understand customer purchasing behavior and generate business insights.</p>
 <br><br>
-
 <h3> Objectives :</h3>
 <br>
 <p>
@@ -15,7 +13,6 @@
 - Analyze occupations and product categories<br>
 - Generate business insights through visualizations</p>
 <br><br>
-
 <h3> Tools Used :</h3>
 <br>
 <p> 
@@ -26,11 +23,9 @@
 - Seaborn<br>
 - Jupyter Notebook</p>
 <br><br>
-
 <h3> Dataset :</h3>
 <span> Diwali Sales Dataset </span>
 <br>
-
 <h3> Project Workflow :</h3>
 <br>
 <p>
@@ -43,8 +38,7 @@
 7. Data Visualizations<br>
 8. Business Insights<br>
 9. Conclusion</p>
-<br><br>
-
+<br>
 <h3> Skills Demonstrated :</h3><br>
 <p>
 - Data Cleaning<br>
@@ -56,8 +50,7 @@
 - Numpy<br>
 - Matplotlib<br>
 - Seaborn</p>
-<br><br>
-
+<br>
 <h3> Connect With Me :<h3>
 <br>
 <p> 
